@@ -1,0 +1,6 @@
+{
+  "name": "LedgerFlow Enterprise ERP",
+  "description": "Enterprise-grade B2B billing, GST invoicing, receivables aging engine, and double-entry accounting ledger platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
